@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Data: raw/processed CSVs will be committed on purpose (small, synthetic,
+# reproducible) once generated, so the project is browsable on GitHub without
+# running any script first.
+
+# SQLite database (regenerated from CSV, see sql/ instructions once written)
+*.db
+*.sqlite
+*.sqlite3
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment
+.env
