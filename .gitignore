@@ -23,3 +23,6 @@ Thumbs.db
 
 # Environment
 .env
+
+# Personal interview prep notes: kept locally for practice, not meant for a public portfolio repo
+docs/interview-preparation.md
