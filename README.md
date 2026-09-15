@@ -97,7 +97,7 @@ banking-credit-risk-analysis/
 | 13 | User stories & acceptance criteria | Done |
 | 14 | Dashboard specification | Done |
 | 15 | Final report & README | Done |
-| 16 | Interview preparation | Done (kept local, see note above) |
+
 
 ## Technologies
 
