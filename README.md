@@ -1,7 +1,5 @@
 # Banking Credit Risk & Decision Process Analysis
 
-**Status:** Complete. All 16 phases delivered, from business framing to interview
-preparation.
 
 A Business Analyst case study simulating a credit process efficiency investigation for
 **Chevron Constantine Banking**, a fictional bank, built as a portfolio project for a
@@ -77,27 +75,6 @@ banking-credit-risk-analysis/
 > `business-analysis/user-stories.md`-style personal rehearsal notes) but is
 > gitignored rather than published, since a recruiter is better served by the
 > finished deliverables above than by rehearsed talking points.
-
-## Current Progress
-
-| Phase | Deliverable | Status |
-|---|---|---|
-| 1 | Business framing (brief, stakeholders, questions, data requirements, assumptions) | Done |
-| 2 | Dataset design | Done |
-| 3 | Synthetic data generation | Done |
-| 4 | Data quality & cleaning | Done |
-| 5 | Exploratory analysis (notebook) | Done |
-| 6 | SQL analysis | Done |
-| 7 | Credit decision analysis | Done |
-| 8 | Processing time & manual review analysis | Done |
-| 9 | Business insights | Done |
-| 10 | Recommendations | in-progress |
-| 11 | As-Is / To-Be process | in-progress|
-| 12 | Requirements | in-progress|
-| 13 | User stories & acceptance criteria | in-progress|
-| 14 | Dashboard specification |in-progress|
-| 15 | Final report & README | in-progress|
-
 
 ## Technologies
 
